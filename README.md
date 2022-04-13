@@ -1,2 +1,2 @@
-# CSE165
-Labs
+# Object Oriented Programming (C++ & Qt/Opengl)
+
