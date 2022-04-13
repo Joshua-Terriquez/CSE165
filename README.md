@@ -1,2 +1,2 @@
-# Object Oriented Programming (C++ & Qt/Opengl)
-
+# Object Oriented Programming 
+(C++ & Qt/Opengl)
